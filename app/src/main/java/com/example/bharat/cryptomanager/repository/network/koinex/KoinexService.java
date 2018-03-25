@@ -15,6 +15,7 @@ public class KoinexService {
 
     private KoinexApi koinexApi;
 
+
     public KoinexService(Retrofit retrofit) {
         koinexApi = retrofit.create(KoinexApi.class);
     }

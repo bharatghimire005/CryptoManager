@@ -1,10 +1,9 @@
 package com.example.bharat.cryptomanager.di.component;
 
-import com.example.bharat.cryptomanager.basecomponent.BaseActivity;
 import com.example.bharat.cryptomanager.di.PerActivity;
 import com.example.bharat.cryptomanager.di.module.ActivityModule;
-import com.example.bharat.cryptomanager.pricelisting.MainActivity;
-import com.example.bharat.cryptomanager.pricelisting.PriceListingModule;
+import com.example.bharat.cryptomanager.home.MainActivity;
+import com.example.bharat.cryptomanager.home.PriceListingModule;
 
 import com.example.bharat.cryptomanager.root.ApplicationComponent;
 

@@ -7,7 +7,7 @@ import android.support.v7.app.AppCompatActivity;
 import com.example.bharat.cryptomanager.di.component.ActivityComponent;
 import com.example.bharat.cryptomanager.di.component.DaggerActivityComponent;
 import com.example.bharat.cryptomanager.di.module.ActivityModule;
-import com.example.bharat.cryptomanager.pricelisting.PriceListingModule;
+import com.example.bharat.cryptomanager.home.PriceListingModule;
 import com.example.bharat.cryptomanager.root.App;
 
 
@@ -23,7 +23,6 @@ public class BaseActivity extends AppCompatActivity {
                 .applicationComponent(((App) getApplication()).getApplicationComponent())
                 .activityModule(new ActivityModule(this))
                 .priceListingModule(new PriceListingModule()).build();
-
     }
 
     public ActivityComponent getActivityComponent() {

@@ -1,8 +1,7 @@
-package com.example.bharat.cryptomanager.pricelisting;
+package com.example.bharat.cryptomanager.home;
 
 import com.example.bharat.cryptomanager.basecomponent.MvpPresenter;
 import com.example.bharat.cryptomanager.basecomponent.MvpView;
-import com.example.bharat.cryptomanager.repository.network.koinex.KoinexService;
 import com.example.bharat.cryptomanager.repository.network.model.KoinexResponse;
 
 public interface PriceListContract {

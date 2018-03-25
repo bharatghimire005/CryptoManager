@@ -1,5 +1,6 @@
 package com.example.bharat.cryptomanager.di.module;
 
+import android.app.Activity;
 import android.content.Context;
 import android.support.v7.app.AppCompatActivity;
 
@@ -25,7 +26,7 @@ public class ActivityModule {
 
 
     @Provides
-    AppCompatActivity provideActivity() {
+    Activity provideActivity() {
         return mActivity;
     }
 

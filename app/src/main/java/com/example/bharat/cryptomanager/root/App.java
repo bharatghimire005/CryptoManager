@@ -2,7 +2,6 @@ package com.example.bharat.cryptomanager.root;
 
 import android.app.Application;
 
-import com.example.bharat.cryptomanager.pricelisting.PriceListingModule;
 import com.example.bharat.cryptomanager.repository.network.ApiModule;
 import com.example.bharat.cryptomanager.repository.network.NetModule;
 

@@ -1,8 +1,7 @@
-package com.example.bharat.cryptomanager.pricelisting;
+package com.example.bharat.cryptomanager.home;
 
 
 import com.example.bharat.cryptomanager.di.PerActivity;
-import com.example.bharat.cryptomanager.repository.network.koinex.KoinexService;
 
 import dagger.Module;
 import dagger.Provides;

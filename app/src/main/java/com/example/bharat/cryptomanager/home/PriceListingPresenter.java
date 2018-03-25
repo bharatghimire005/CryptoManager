@@ -1,4 +1,4 @@
-package com.example.bharat.cryptomanager.pricelisting;
+package com.example.bharat.cryptomanager.home;
 
 import android.util.Log;
 
@@ -7,8 +7,6 @@ import com.example.bharat.cryptomanager.repository.network.model.KoinexResponse;
 
 import javax.inject.Inject;
 
-import dagger.Module;
-import io.reactivex.Scheduler;
 import io.reactivex.android.schedulers.AndroidSchedulers;
 import io.reactivex.disposables.CompositeDisposable;
 import io.reactivex.schedulers.Schedulers;

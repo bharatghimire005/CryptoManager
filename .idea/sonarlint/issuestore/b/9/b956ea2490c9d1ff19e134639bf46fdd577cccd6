@@ -1,12 +1,13 @@
 
-•squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(óšÀ5
-›squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(°—ëóùÿÿÿÿ
-›squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(—ß¡Íûÿÿÿÿ
-csquid:MaximumInheritanceDepth"<This class has 8 parents which is greater than 5 authorized.(žÂ³É
-–squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(õ¿àù
-›squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ö·¹òøÿÿÿÿ
-–squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¡¾£ 
-•squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(°¦Ó7
-–squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ØÍ·
-‡squid:UselessImportCheck"eRemove this unused import 'com.example.bharat.cryptomanager.repository.network.koinex.KoinexService'.(„œû˜
-lsquid:UselessImportCheck"ERemove this unused import 'android.support.v7.app.AppCompatActivity'.(«Û®ûüÿÿÿÿ
+œsquid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(óšÀ58ñ¾Ñé£,
+squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¡¾£ 8ñ¾Ñé£,
+ssquid:UselessImportCheck"ERemove this unused import 'android.support.v7.app.AppCompatActivity'.(«Û®ûüÿÿÿÿ8ñ¾Ñé£,
+œsquid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(°¦Ó78ñ¾Ñé£,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(…‡Â±8ñ¾Ñé£,
+squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(õ¿àù8ñ¾Ñé£,
+¢squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ö·¹òøÿÿÿÿ8ñ¾Ñé£,
+¢squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(—ß¡Íûÿÿÿÿ8ñ¾Ñé£,
+Žsquid:UselessImportCheck"eRemove this unused import 'com.example.bharat.cryptomanager.repository.network.koinex.KoinexService'.(„œû˜8ñ¾Ñé£,
+¢squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(°—ëóùÿÿÿÿ8ñ¾Ñé£,
+jsquid:MaximumInheritanceDepth"<This class has 8 parents which is greater than 5 authorized.(žÂ³É8–îÖà¤,
+squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ØÍ·8ñ¾Ñé£,

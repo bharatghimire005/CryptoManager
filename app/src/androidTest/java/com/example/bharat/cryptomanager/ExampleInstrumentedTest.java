@@ -1,4 +1,4 @@
-package com.example.bharat.cryptomanager;
+
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

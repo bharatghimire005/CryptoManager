@@ -1,12 +1,9 @@
-package com.example.bharat.cryptomanager.pricelisting;
+package com.example.bharat.cryptomanager.home;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
 import com.example.bharat.cryptomanager.R;
 import com.example.bharat.cryptomanager.basecomponent.BaseActivity;
-import com.example.bharat.cryptomanager.repository.network.koinex.KoinexService;
-import com.example.bharat.cryptomanager.root.App;
 
 import javax.inject.Inject;
 
