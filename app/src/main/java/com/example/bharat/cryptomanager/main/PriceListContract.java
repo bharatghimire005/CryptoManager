@@ -1,4 +1,4 @@
-package com.example.bharat.cryptomanager.home;
+package com.example.bharat.cryptomanager.main;
 
 import com.example.bharat.cryptomanager.basecomponent.MvpPresenter;
 import com.example.bharat.cryptomanager.basecomponent.MvpView;

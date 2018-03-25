@@ -7,7 +7,7 @@ import android.support.v7.app.AppCompatActivity;
 import com.example.bharat.cryptomanager.di.component.ActivityComponent;
 import com.example.bharat.cryptomanager.di.component.DaggerActivityComponent;
 import com.example.bharat.cryptomanager.di.module.ActivityModule;
-import com.example.bharat.cryptomanager.home.PriceListingModule;
+import com.example.bharat.cryptomanager.main.PriceListingModule;
 import com.example.bharat.cryptomanager.root.App;
 
 

@@ -16,7 +16,6 @@ public class App extends Application {
                 .netModule(new NetModule())
                 .applicationModule(new ApplicationModule(this))
                 .apiModule(new ApiModule())
-                /*.priceListingModule(new PriceListingModule())*/
                 .build();
 
         applicationComponent.inject(this);
